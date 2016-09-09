@@ -1,0 +1,34 @@
+{
+    "name": "alertifyjs",
+    "description": "AlertifyJS is a javascript framework for developing pretty browser dialogs and notifications.",
+    "main": ["./build/alertify.js",
+        "./build/css/alertify.css",
+        "./build/css/themes/default.css"
+    ],
+    "authors": [
+        "Mohammad Younes <Mohammad@alertifyjs.com> (http://alertifyjs.com)"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "alertifyjs",
+        "alert",
+        "confirm",
+        "prompt",
+        "dialog",
+        "alertify",
+        "javascript",
+        "framework",
+        "pretty",
+        "dialogs"
+    ],
+    "homepage": "https://github.com/alfredoPacheco/AlertifyJS",
+    "moduleType": [],
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
